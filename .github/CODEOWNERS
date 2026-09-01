@@ -1,0 +1,5 @@
+# Every change in this repo needs review from a code owner.
+# Paths are matched last-rule-wins, so the catch-all stays at the top
+# and anything more specific goes below it.
+
+*       @brahhood-dev
